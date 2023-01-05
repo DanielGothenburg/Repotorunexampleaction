@@ -1,4 +1,7 @@
 # Repotorunexampleaction
+The idea is that any changes to this file should trigger the workflow. However does not always happen (a change to this file means it gets pushed to the repo. And the action tirggers on push) 
+
+
 This repo is used to run the example action created within another repo called ello-world-docker-action. The action in that repo is called HelloWorldAll.
 Name of action is found in the metadatafile for that action. The metadatafile (found in repo ello-world-docker-action) is called action.yml
 
